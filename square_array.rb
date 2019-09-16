@@ -1,7 +1,7 @@
 def square_array(array)
     array.each do |n|
       n ** 2
-      puts "My new numbers are #{n}."
+      puts "My new numbers are #{array}."
     end
  end
 
